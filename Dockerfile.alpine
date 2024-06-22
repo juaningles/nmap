@@ -1,2 +1,2 @@
 FROM alpine:3
-apk add nmap
+RUN apk add nmap
